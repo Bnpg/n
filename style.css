@@ -1,0 +1,64 @@
+h1 {color: rgb(1, 99, 211);
+
+}
+
+p{
+    color: rgb(73, 50, 206);
+}
+.ma-classe {
+    color: brown;
+}
+.grand-texte {
+    font-size: 30px;
+}
+.ma-classe_grand-texte {
+    font-size: 20px;
+}
+.elem1 {
+    font-size: 1.3em;
+}
+.elem1 {
+    font-style: italic;
+}
+.elem1 {
+    font-weight: bold;
+}
+.dame {
+    text-decoration: underline;
+}
+.grand-texte {
+    text-align: center;
+}
+.bema {
+    text-align: center;
+}
+.bema {
+    font-size: 50px;
+}
+.petitimage.jpg {
+    text-align: right;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    .banier {
+        padding: 50px;
+        background-image: url('hospital.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: top right;
+        opacity: 0.9;
+    }
+.elom {
+    border: double;
+    border-left: #043C64;
+}
+
+    background: linear-gradient(90deg,#043C64,#1c8cdb);
+    .hp {
+        border: 3px #ecff41 solid;
+    }
+}
